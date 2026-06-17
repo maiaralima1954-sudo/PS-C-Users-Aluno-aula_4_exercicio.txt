@@ -1,0 +1,5 @@
+Context: voce é um especialista em computação de nuvem e precisa estruturar uma planilha para o time de atentimento alimetar com as informações dos alunos que querem fazer rematrícula, esta planilha precisa ter um dashbord que mostre um resumo dos boleto pagos por segmento e dos termos entregues por segmentos também para facilitar as analises. também precisa ter uma aba por unidade para que o time de atendimento adicione as informações dos alunos nesta aba.
+Objective: realizar o acompanhamento de como esta o processo de rematrícula e a entrega dos termos nas unidades, para ter uma visão mais rapida e analise mais precisa
+Style: a planilha tem que ser facil de mexer e o dashbord muito intuitivo
+Tone: profissional
+Audience: time de atendimento e direção de escola
